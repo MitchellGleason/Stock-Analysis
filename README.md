@@ -1,7 +1,6 @@
 # Stock Analysis
 ## Overview of Project
 The purpose of this project is to provide a visualization and analysis of green energy stocks. This will aid in decision making when investing in this sector, showing the total exchange volume and yearly return for each stock.
----
 ## Results
 The outcome of this analysis shows that 2017 was overall a very good year for green energy stocks, with eleven out of the twelve selected stocks having a positive yearly return. More than just positive yearly returns, four of the twelve stocks reported a yearly return of more than 100%, with one reaching 199%. The total exchange volume between the stocks is relatively similar with only two outliers having much less and two outliers having much more exchange volume. The year 2018, however, has a very different result with only two of the twelve stocks having a positive yearly return. The total exchange volume is also more varied than 2017, with more stocks having high volume. The large discrepancy between the highest and lowest return stocks both years, as well as the difference between the number of stocks with a positive and negative yearly return, shows that this sector might be relatively volatile and could change very quickly.
 
